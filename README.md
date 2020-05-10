@@ -25,13 +25,13 @@
 
 # 2019
 
-###NTIRE 2019 Challenge on Real Image Denoising: Methods and Results
+### NTIRE 2019 Challenge on Real Image Denoising: Methods and Results
 
 ### NTIRE 2019 Challenge on Real Image Super-Resolution: Methods and Results
 
 ### NTIRE 2019 Challenge on Video Deblurring: Methods and Results
 
-###NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study
+### NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study
 ### NTIRE 2019 Challenge on Image Colorization: Report
 
 ### NTIRE 2019 Challenge on Image Enhancement: Methods and Results
@@ -48,9 +48,9 @@
 
 ### NTIRE 2020 Challenge on Image and Video Deblurring
 
-###NTIRE 2020 Challenge on Perceptual Extreme Super-Resolution: Methods and Results
+### NTIRE 2020 Challenge on Perceptual Extreme Super-Resolution: Methods and Results
 
-###NTIRE 2020 Challenge on Real-World Image Super-Resolution: Methods and Results
+### NTIRE 2020 Challenge on Real-World Image Super-Resolution: Methods and Results
 
 ### NTIRE 2020 Challenge on Spectral Reconstruction from an RGB Image
 
