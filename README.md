@@ -1,7 +1,7 @@
 # NTIRE-Challenge
 ### NTIRE 英文全称是 New Trends in Image Restoration and Enhancement，也就是“图像恢复与增强的新趋势”，是近年来计算机图像修复领域最具影响力的一场赛事，每年都会吸引大量的关注者和参赛者。为了方便大家查阅该比赛每年发布的比赛报告，特建此项目。本项目将会实时更新该赛事的报告。关于论文的解读会视情况发布在 https://zhuanlan.zhihu.com/c_1242203049277788160.
 
-### 所有论文可从  <a href="https://www.jianguoyun.com/p/DQ-9ZnoQ19ySBxiuoJcD">All papers</a>  下载。
+### 所有论文可从  <a href="https://www.jianguoyun.com/p/Db0_FZkQ19ySBxibtZcD">All papers</a>  下载。
 
 ---------------------------
 
@@ -55,3 +55,5 @@
 ### NTIRE 2020 Challenge on Spectral Reconstruction from an RGB Image
 
 ### NTIRE 2020 Challenge on Video Quality Mapping: Methods and Results
+
+### NTIRE 2020 Challenge on Real Image Denoising: Dataset, Methods and Results
