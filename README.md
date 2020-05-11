@@ -7,53 +7,55 @@
 
 # 2017
 
-### NTIRE 2017 Challenge on Single Image Super-Resolution: Dataset and Study
+### <a href="https://junchenglee.com/other/NTIRE/2017/SR_Data.pdf">NTIRE 2017 Challenge on Single Image Super-Resolution: Dataset and Study</a>
 
-### NTIRE 2017 Challenge on Single Image Super-Resolution: Methods and Results
+### <a href="https://junchenglee.com/other/NTIRE/2017/SR_Method.pdf">NTIRE 2017 Challenge on Single Image Super-Resolution: Methods and Results</a>
 
 --------------
 
 # 2018
 
-### NTIRE 2018 Challenge on Image Dehazing: Methods and Results
+### <a href="https://junchenglee.com/other/NTIRE/2018/Image_dehazing.pdf">NTIRE 2018 Challenge on Image Dehazing: Methods and Results</a>
 
-### NTIRE 2018 Challenge on Spectral Reconstruction from RGB Images
+### <a href="https://junchenglee.com/other/NTIRE/2018/RGB_images.pdf">NTIRE 2018 Challenge on Spectral Reconstruction from RGB Images</a>
 
-### NTIRE 2018 Challenge on Single Image Super-Resolution: Methods and Results
+### <a href="https://junchenglee.com/other/NTIRE/2018/SR_Method.pdf">NTIRE 2018 Challenge on Single Image Super-Resolution: Methods and Results</a>
 
 --------
 
 # 2019
 
-### NTIRE 2019 Challenge on Real Image Denoising: Methods and Results
+### <a href="https://junchenglee.com/other/NTIRE/2019/Image_denoising.pdf">NTIRE 2019 Challenge on Real Image Denoising: Methods and Results</a>
 
-### NTIRE 2019 Challenge on Real Image Super-Resolution: Methods and Results
+### <a href="https://junchenglee.com/other/NTIRE/2019/SR_Method.pdf">NTIRE 2019 Challenge on Real Image Super-Resolution: Methods and Results</a>
 
-### NTIRE 2019 Challenge on Video Deblurring: Methods and Results
+### <a href="https://junchenglee.com/other/NTIRE/2019/Video_deblurring_Method.pdf">NTIRE 2019 Challenge on Video Deblurring: Methods and Results</a>
 
-### NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study
-### NTIRE 2019 Challenge on Image Colorization: Report
+### <a href="https://junchenglee.com/other/NTIRE/2019/Video_deblurring_Data.pdf">NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study</a>
 
-### NTIRE 2019 Challenge on Image Enhancement: Methods and Results
+### <a href="https://junchenglee.com/other/NTIRE/2019/Image_colorization.pdf">NTIRE 2019 Challenge on Image Colorization: Report</a>
 
-### NTIRE 2019 Image Dehazing Challenge Report
+### <a href="https://junchenglee.com/other/NTIRE/2019/Image_enhancement.pdf">NTIRE 2019 Challenge on Image Enhancement: Methods and Results</a>
+
+### <a href="https://junchenglee.com/other/NTIRE/2019/Image_dehazing.pdf">NTIRE 2019 Image Dehazing Challenge Report</a>
 
 ---------
 
 # 2020
 
-### NTIRE 2020 Challenge on NonHomogeneous Dehazing
+### <a href="https://junchenglee.com/other/NTIRE/2020/Image_dehazing.pdf">NTIRE 2020 Challenge on NonHomogeneous Dehazing</a>
 
-### NTIRE 2020 Challenge on Image Demoireing: Methods and Result
+### <a href="https://junchenglee.com/other/NTIRE/2020/Image_demoireing.pdf">NTIRE 2020 Challenge on Image Demoireing: Methods and Result</a>
 
-### NTIRE 2020 Challenge on Image and Video Deblurring
+### <a href="https://junchenglee.com/other/NTIRE/2020/Image_and_video_ deblurring.pdf">NTIRE 2020 Challenge on Image and Video Deblurring</a>
 
-### NTIRE 2020 Challenge on Perceptual Extreme Super-Resolution: Methods and Results
+### <a href="https://junchenglee.com/other/NTIRE/2020/Perceptual_extreme_SR.pdf">NTIRE 2020 Challenge on Perceptual Extreme Super-Resolution: Methods and Results</a>
 
-### NTIRE 2020 Challenge on Real-World Image Super-Resolution: Methods and Results
+### <a href="https://junchenglee.com/other/NTIRE/2020/Real_world_SR.pdf">NTIRE 2020 Challenge on Real-World Image Super-Resolution: Methods and Results</a>
 
-### NTIRE 2020 Challenge on Spectral Reconstruction from an RGB Image
+### <a href="https://junchenglee.com/other/NTIRE/2020/Image_ denoising.pdf">NTIRE 2020 Challenge on Spectral Reconstruction from an RGB Image</a>
 
-### NTIRE 2020 Challenge on Video Quality Mapping: Methods and Results
+### <a href="https://junchenglee.com/other/NTIRE/2020/RGB_Image.pdf">NTIRE 2020 Challenge on Video Quality Mapping: Methods and Results</a>
 
-### NTIRE 2020 Challenge on Real Image Denoising: Dataset, Methods and Results
+### <a href="https://junchenglee.com/other/NTIRE/2020/Video_quality_ mapping.pdf">NTIRE 2020 Challenge on Real Image Denoising: Dataset, Methods and Results</a>
+
