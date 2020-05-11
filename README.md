@@ -27,7 +27,7 @@
 
 ### <a href="https://junchenglee.com/other/NTIRE/2019/Image_denoising.pdf">NTIRE 2019 Challenge on Real Image Denoising: Methods and Results</a>
 
-### <a href="https://junchenglee.com/other/NTIRE/2019/SR_Method.pdf">NTIRE 2019 Challenge on Real Image Super-Resolution: Methods and Results</a>
+### <a href="https://junchenglee.com/other/NTIRE/2019/SR_Methods.pdf">NTIRE 2019 Challenge on Real Image Super-Resolution: Methods and Results</a>
 
 ### <a href="https://junchenglee.com/other/NTIRE/2019/Video_deblurring_Method.pdf">NTIRE 2019 Challenge on Video Deblurring: Methods and Results</a>
 
